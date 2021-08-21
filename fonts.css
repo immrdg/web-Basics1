@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital@1&display=swap');
+
+.header h1:first-of-type
+{
+  font-size: 70px;
+  font-family: 'Playball';
+  color: #343F56;
+}
+.header >h1:last-of-type
+{
+font-size: 35px;
+ font-family: 'Allura';
+ color: #8E2657;
+}
+
+.py h1
+{
+  font-family: 'Cabin', sans-serif;
+}
